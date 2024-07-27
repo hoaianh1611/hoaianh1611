@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hoai Anh
-- 🌱 I’m currently learning Web Development - Backend
+- 🌱 I’m currently Frontend Developer
 - 📫 How to reach me ...
 
 <!---
